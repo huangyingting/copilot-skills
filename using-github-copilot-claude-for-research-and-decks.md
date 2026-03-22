@@ -2,6 +2,8 @@
 
 > **TL;DR** — GitHub Copilot is no longer just an autocomplete tool for developers. With Claude as its model and the right skills installed, it can research industry topics across Reddit, X, news sources, and analyst reports — then turn that research into a polished PowerPoint deck. This walkthrough uses AI in the insurance industry as a real example.
 
+I recently turned GitHub Copilot into a research agent — and this article is the proof. With two skills installed, I asked Copilot to research AI in insurance, then generate a 9-slide PowerPoint deck from the findings, then write this article explaining how it all worked. One session. Here is how to do the same.
+
 ---
 
 ## Why This Changes Your Daily Workflow
